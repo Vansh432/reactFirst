@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactFirst/static/css/main.1727fead.css",
+    "main.js": "/reactFirst/static/js/main.53884947.js",
+    "static/media/homeImage.png": "/reactFirst/static/media/homeImage.f6f506fb0afc53abe1ec.png",
+    "static/media/flipkart-logo-39903.png": "/reactFirst/static/media/flipkart-logo-39903.1c3afd3aaa169bcc5f17.png",
+    "static/media/Nike-Logo.png": "/reactFirst/static/media/Nike-Logo.0244fe5ede2e55f50bf6.png",
+    "static/media/amazon.png": "/reactFirst/static/media/amazon.7df5808dfe835d3c8819.png",
+    "index.html": "/reactFirst/index.html",
+    "main.1727fead.css.map": "/reactFirst/static/css/main.1727fead.css.map",
+    "main.53884947.js.map": "/reactFirst/static/js/main.53884947.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1727fead.css",
+    "static/js/main.53884947.js"
+  ]
+}
